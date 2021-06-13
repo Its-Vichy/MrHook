@@ -37,6 +37,10 @@
 
 #
 
+<img src='https://images-ext-2.discordapp.net/external/9B_yw-1kTLcSlZzSG5j-0ayHoyHfNF5Xe1GsaDD6b-U/https/repository-images.githubusercontent.com/376533591/604d5f00-cc52-11eb-88ce-2ecf5b525c65'>
+
+#
+
 <p align="center"> 
     <b>Informations</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/MrHook?style=social">
