@@ -41,7 +41,7 @@ class MrHook:
 
         while alive:
             try:
-                response = requests.post(webhook, headers= {'content-type': 'application/json'}, proxies= {'http': proxy, 'https': proxy}, json= { 'content': '> ||<@everyone>|| **MrHook was here** https://github.com/Its-Vichy', 'username': 'Fucked by MrHook' })
+                response = requests.post(webhook, headers= {'content-type': 'application/json'}, proxies= {'http': proxy, 'https': proxy}, json= { 'content': '> ||@everyone|| **MrHook was here** https://github.com/Its-Vichy/MrHook', 'username': 'Fucked by MrHook' })
                     
                 if response.status_code == 204:
                     self.send += 1
